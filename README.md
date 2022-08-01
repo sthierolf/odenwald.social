@@ -12,4 +12,5 @@ Nutzungsbedingungen (terms of use) as HTML file
 
 ## Pic of the month
 07-july-michelstadt.jpg - Historic Town Hall Michelstadt
+
 08-august-viadukt.jpg - Himbachel Viaduct Oberzent-Hetzbach
