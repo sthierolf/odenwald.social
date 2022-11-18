@@ -5,7 +5,7 @@
 This Repo contains some public information about the Mastodon Instance of odenwald.social.
 
 ## blockedservers.md
-Blocked or silenced Mastodon Instances
+Using block list by chaos.social at https://github.com/chaossocial/about/blob/master/blocked_instances.md
 
 ## Nutzungsbedingungen.html
 Nutzungsbedingungen (terms of use) as HTML file
