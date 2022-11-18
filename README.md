@@ -4,11 +4,18 @@
 
 This Repo contains some public information about the Mastodon Instance of odenwald.social.
 
-## blockedservers.md
+
+## Bocklist
 Using block list by chaos.social at https://github.com/chaossocial/about/blob/master/blocked_instances.md
+
 
 ## Nutzungsbedingungen.html
 Nutzungsbedingungen (terms of use) as HTML file
+
+
+## Emoji
+Custom emojis wih coat of arms Odenwald
+
 
 ## Pic of the month
 07-july-michelstadt.jpg - Historic Town Hall Michelstadt
