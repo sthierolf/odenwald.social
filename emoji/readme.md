@@ -10,7 +10,8 @@ coats of arms is governed by legal restrictions, independent of the copyright st
 
 Usage:
 ======
-Städte
+
+**Städte**
 
 :odw_badkoenig:
 
@@ -22,7 +23,7 @@ Städte
 
 :odw_oberzent:
 
-Gemeinden
+**Gemeinden**
 
 :odw_brensbach:
 
@@ -38,6 +39,6 @@ Gemeinden
 
 :odw_reichelsheim:
 
-Kreis
+**Kreis**
 
 :odw_odenwald:
